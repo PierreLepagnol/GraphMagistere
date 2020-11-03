@@ -1,12 +1,12 @@
 # GraphMagistere
 Projet théorie des réseaux - Magistère Rennes 1
 
-`
+```
 ├── GetInfosWiki.py # Recupération des informations sur les pages
 ├── README.md
 ├── ScrapFunc.py # Fonctions génériques de récuperation HTML
 └── Scraping Maigstere.py # Fonction de Scrapping des pages wiki
-`
+```
 
 ## Projet
 
